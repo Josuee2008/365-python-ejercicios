@@ -124,7 +124,7 @@ elif imc < 30:
 else:
     print("Clasificación: Obesidad")
     
-#Día 92/365
+#Día 91/365
 """
 Convertir una lista 
 en un diccionario con índices
