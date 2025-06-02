@@ -97,3 +97,51 @@ ventas_descuento = serie_ventas * 0.9
 #Mostramos las ventas con descuento 
 print("\nVentas con descuento (10%):")
 print(ventas_descuento)
+
+
+#Día 152/ 365
+"""
+Gráfico de Distribución de Productos por Categoría
+"""
+import pandas as pd
+import matplotlib.pyplot as plt
+
+def graficar_distribucion_productos(productos, tipo):
+    tipos = {
+        'barras': 'bar',
+        'sectores': 'pies',
+        'horizontal' : 'barh'
+    }
+
+    if tipo not in tipos:
+        print("Tipos de graficos no válidos. Usa: 'barras', 'sectores' o 'horizontales'.")
+        return
+    
+    plt.figure(figsize=(7, 5))
+
+    if tipo == 'sectores':
+        productos.plot.pie(autopct='%1.1f%%')
+        plt.ylabel('')
+        plt.title('Distribución de Productos por Categoría')
+    else:
+        productos.plot(kind=tipos[tipo])
+        plt.title('Cantidad de Productos por Categoría')
+        plt.xlabel('Categoria' if tipo == 'barras' else 'Cantidad')
+        plt.ylabel('Cantidad' if tipo == 'barras' else 'Categoría')
+
+    plt.tight_layout()
+    plt.show()
+
+#Datos de ejemplo
+inventario = pd.Series({
+    'Ropa': 120,
+    'Tecnología': 80,
+    'Alimentos': 150,
+    'Juguetes': 60,
+    'Libros': 90
+})
+
+#Llamada a la función
+graficar_distribucion_productos(inventario, 'barras')
+graficar_distribucion_productos(inventario, 'sectores')
+graficar_distribucion_productos(inventario, 'horizontal')
