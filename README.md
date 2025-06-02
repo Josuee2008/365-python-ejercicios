@@ -161,7 +161,8 @@ Cada solución está pensada para ayudar a personas que están comenzando a prog
 - ✅ Día 149: Visualizador de ecuaciones en consola  
 - ✅ Día 150: Verificación de contraseña  
 - ✅ Día 151: Ventas por año con descuento usando Pandas 🐼💸
-- ✅ Día 152: Gráfico de Distribución de Productos por Categoría 
+- ✅ Día 152: Gráfico de Distribución de Productos por Categoría
+- ✅ Día 153: Cómo leer un archivo CSV en Python 📄📬
 ---
 
 📌 El repositorio se irá actualizando conforme avance el reto.  
