@@ -145,3 +145,20 @@ inventario = pd.Series({
 graficar_distribucion_productos(inventario, 'barras')
 graficar_distribucion_productos(inventario, 'sectores')
 graficar_distribucion_productos(inventario, 'horizontal')
+
+
+#Día 153 / 365
+"""
+Cómo leer un 
+archivo CSV en Python 📄📬
+"""
+import csv
+def procesar_csv(archivo):
+    with open(archivo, mode='r', encoding='utf-8') as f:
+        lector = csv.DictReader(f)
+        return [fila for fila in lector]
+    
+#Ejemplo de uso:
+datos = procesar_csv('datos_usuarios.csv')
+for usuarios in datos:
+    print(usuarios['nombre'], usuarios['email'])
