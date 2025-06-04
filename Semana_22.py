@@ -162,3 +162,28 @@ def procesar_csv(archivo):
 datos = procesar_csv('datos_usuarios.csv')
 for usuarios in datos:
     print(usuarios['nombre'], usuarios['email'])
+
+
+
+#Día 154 / 365
+"""
+Extrae precios de productos 
+desde una página web (web scraping básico)
+"""
+
+import requests
+from bs4 import BeautifulSoup
+
+url = 'https://books.toscrape.com/'
+
+response = requests.get(url)
+response.encoding = response.apparent_encoding
+
+soup = BeautifulSoup(response.text, 'html.parser')
+
+productos = soup.find_all('article', class_='product_pod')
+
+for producto in productos:
+    titulo = producto.h3.a['title']
+    precio = producto.find('p', class_='price_color').text
+    print(f'{titulo} - {precio}')
