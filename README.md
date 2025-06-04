@@ -163,6 +163,7 @@ Cada solución está pensada para ayudar a personas que están comenzando a prog
 - ✅ Día 151: Ventas por año con descuento usando Pandas 🐼💸
 - ✅ Día 152: Gráfico de Distribución de Productos por Categoría
 - ✅ Día 153: Cómo leer un archivo CSV en Python 📄📬
+- ✅ Día 154: Extrae precios de productos desde una página web (web scraping básico)
 ---
 
 📌 El repositorio se irá actualizando conforme avance el reto.  
