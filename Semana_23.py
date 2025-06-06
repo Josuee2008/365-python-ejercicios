@@ -13,3 +13,29 @@ feriados = holidays.country_holidays('EC', years=año)
 print(f"Días festivos en Ecuador para el año {año}: \n")
 for fecha, nombre in sorted(feriados.items()):
     print(f"{fecha}: {nombre}")
+
+
+
+#Día 156 / 365
+"""
+Calculadora de diferencia 
+entre zonas horarias
+"""
+from datetime import datetime
+import pytz
+
+
+zona1= pytz.timezone('America/Mexico_City')
+zona2 = pytz.timezone('Asia/Tokyo')
+
+#Obtener hora actual en UTC
+utc = datetime.now(pytz.utc)
+
+hora1= utc.astimezone(zona1)
+hora2 = utc.astimezone(zona2)
+
+print(f"Hora en Ciudad de México: {hora1.strftime('%Y-%m-%d %H:%M:%S')}")
+print(f"Hora en Tokio: {hora2.strftime('%Y-%m-%d %H:%M:%S')}")
+
+diferencia = (hora2.utcoffset().total_seconds() - hora1.utcoffset().total_seconds()) / 3600
+print(f"Diferencia horaria: {abs(diferencia)} horas")
