@@ -165,6 +165,7 @@ Cada solución está pensada para ayudar a personas que están comenzando a prog
 - ✅ Día 153: Cómo leer un archivo CSV en Python 📄📬
 - ✅ Día 154: Extrae precios de productos desde una página web (web scraping básico)
 - ✅ Día 155: Mostrar los días festivos de un país en un año específico
+- ✅ Día 156: Calculadora de diferencia entre zonas horarias
 ---
 
 📌 El repositorio se irá actualizando conforme avance el reto.  
