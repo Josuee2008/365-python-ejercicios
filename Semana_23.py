@@ -39,3 +39,23 @@ print(f"Hora en Tokio: {hora2.strftime('%Y-%m-%d %H:%M:%S')}")
 
 diferencia = (hora2.utcoffset().total_seconds() - hora1.utcoffset().total_seconds()) / 3600
 print(f"Diferencia horaria: {abs(diferencia)} horas")
+
+
+
+#Día 157 / 365
+"""
+Cuenta cuántos caracteres especiales 
+hay en una cadena de texto
+"""
+
+texto = input("Escribe una frase: ")
+
+caracteres_especiales = "!@#$%^&*()_+-=[]{}|;:'\",.<>?/`~"
+
+contador = 0
+
+for caractere in texto:
+    if caractere in caracteres_especiales:
+        contador += 1
+
+print(f"Caracteres especiales encontrados: {contador}")
