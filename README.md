@@ -167,6 +167,8 @@ Cada solución está pensada para ayudar a personas que están comenzando a prog
 - ✅ Día 155: Mostrar los días festivos de un país en un año específico
 - ✅ Día 156: Calculadora de diferencia entre zonas horarias
 - ✅ Día 157: Cuenta cuántos caracteres especiales hay en una cadena de texto
+- ✅ Día 158: Programa que encuentra los números que no se repiten
+- ✅ Día 159: Programa que te dice si un número es positivo, negativo o cero.
 ---
 
 📌 El repositorio se irá actualizando conforme avance el reto.  
