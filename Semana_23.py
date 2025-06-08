@@ -59,3 +59,38 @@ for caractere in texto:
         contador += 1
 
 print(f"Caracteres especiales encontrados: {contador}")
+
+
+
+
+#Día 158 / 365
+"""
+"Filtrador de Números Únicos"
+"""
+from collections import defaultdict
+
+numeros = [int(num.strip()) for num in input("Ingresa números separados por comas: ").split(",")]
+contador = defaultdict(int)
+
+for num in numeros:
+    contador[num] += 1
+
+unicos = [num for num in numeros if contador[num] == 1]
+print("Números únicos:", unicos)
+
+
+
+
+# Día 159 / 365
+"""
+Verifica si un número es positivo, negativo o cero
+"""
+
+numero = int(input("Ingresa un número: "))
+
+if numero > 0:
+    print("El número es positivo")
+elif numero < 0:
+    print("El número es negativo")
+else:
+    print("El número es cero")
