@@ -94,3 +94,34 @@ elif numero < 0:
     print("El número es negativo")
 else:
     print("El número es cero")
+
+
+# Día 160 / 365
+"""
+Cuenta cuántas letras mayúsculas
+y minúsculas hay en una frase
+"""
+frase = input("Escribe una frase:")
+mayusculas = 0
+minusculs = 0
+for letras in frase:
+    if letras.isupper0:
+        mayusculas += 1
+    elif letras.islower:
+        minusculas += 1
+print (f"Mayúsculas: (mayusculas)")
+print(f"Minusculas: (minusculas)")
+
+# Día 161 / 365
+"""
+Cuenta cuántas palabras en una frase
+comienzan con una vocal
+"""
+frase = input ("Escribe una frase:")
+palabras = frase.split()
+vocales = 'aeiouáéíóúAEIOUÁÉÍÓÚ'
+contador = 0
+for palabra in palabras:
+ if palabra and palabra[0] in vocales:
+    contador += 1
+print(f"Palabras que comienzan con vocal:{contador}")
