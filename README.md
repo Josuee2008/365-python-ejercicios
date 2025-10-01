@@ -3,7 +3,7 @@
 Este repositorio contiene un ejercicio diario de Python durante todo el año (365 días).  
 Cada solución está pensada para ayudar a personas que están comenzando a programar o que quieren practicar de forma constante y divertida.
 
-> 🎥 Todos los ejercicios están publicados en TikTok: [@josu.hope](https://www.tiktok.com/@josu.hope)  
+> 🎥 Todos los ejercicios están publicados en TikTok: [@josu.exes](https://www.tiktok.com/@josu.exes)
 > 🐰 También puedes unirte a nuestra comunidad en Discord: [La Madriguera de Python](https://discord.gg/eHEYc79p)
 
 ---
@@ -169,6 +169,47 @@ Cada solución está pensada para ayudar a personas que están comenzando a prog
 - ✅ Día 157: Cuenta cuántos caracteres especiales hay en una cadena de texto
 - ✅ Día 158: Programa que encuentra los números que no se repiten
 - ✅ Día 159: Programa que te dice si un número es positivo, negativo o cero.
+- ✅ Día 160: Cuenta cuántas letras mayúsculas y minúsculas hay en una frase
+- ✅ Día 161: Cuenta cuántas palabras en una frase comienzan con una vocal
+- ✅ Día 162: Suma solo los números positivos en una lista dada por el usuario
+- ✅ Día 163: Elimina los espacios duplicados de una frase escrita por el usuario
+- ✅ Día 164: Detecta si una palabra tiene letras repetidas
+- ✅ Día 165: Página web que diga “Hola Mundo” usando solo Python con Flask
+- ✅ Día 166: Crea una app visual que cuente palabras con Streamlit
+- ✅ Día 167: Conversor de texto a voz con Python
+- ✅ Día 168: Calculadora Web Simple con Streamlit
+- ✅ Día 169: Cambia el color de fondo según el clima (Flask + API)
+- ✅ Día 170: Visualiza la frecuencia de letras en un texto con Streamlit + Matplotlib
+- ✅ Día 171: Contador de clicks con interfaz en Streamlit
+- ✅ Día 172: Creador de contraseñas fuertes con Flask
+- ✅ Día 173: Detector de números primos con interfaz gráfica (Tkinter)
+- ✅ Día 174: Detector de palabras palíndromas con interfaz (Tkinter)
+- ✅ Día 175: App visual para convertir temperaturas con Streamlit
+- ✅ Día 176: Lanzador de dados animado con Turtle
+- ✅ Día 177: Simulador de semáforo con Tkinter
+- ✅ Día 178: Controlador de pelota con el teclado (Pygame)
+- ✅ Día 179: Reproductor de sonidos con Pygame
+- ✅ Día 180: Reloj digital en vivo con Tkinter
+- ✅ Día 181: Dibuja una estrella con Turtle
+- ✅ Día 182: 🔒 Verificador de fuerza de contraseña con Streamlit
+- ✅ Día 183: 🌦️ Consulta el clima actual de una ciudad con Streamlit y OpenWeather
+- ✅ Día 184: Círculo rebotador con Pygame
+- ✅ Día 185: Visualizador de porcentajes con Matplotlib
+- ✅ Día 186: Mapa interactivo con marcadores usando Folium
+- ✅ Día 187: Alarma básica en Python
+- ✅ Día 188: Creador de gráficos de barras con Plotly
+- ✅ Día 189: Juego básico: Atrapa el cuadrado (Pygame)
+- ✅ Día 190: Juego “Esquiva los meteoritos”
+- ✅ Día 191: Lector de texto en voz alta con pyttsx3
+- ✅ Día 192: Dibuja una figura tipo mandala con Turtle
+- ✅ Día 193: 🟩 Mini Pong para un jugador (rebotar la pelota con una barra)
+- ✅ Día 194: Juego de clic rápido: atrapa el círculo antes de que desaparezca
+- ✅ Día 195: 🧠 Conversor de números romanos a enteros
+- ✅ Día 196: 🎨 Creador de degradados con Pillow
+- ✅ Día 197: Generador de notas musicales con winsound (Windows)
+- ✅ Día 198: Lienzo interactivo para dibujar con el mouse (Tkinter)
+- ✅ Día 199: Círculo que sigue al mouse con Pygame
+- ✅ Día 200: Calculadora de probabilidad básica
 ---
 
 📌 El repositorio se irá actualizando conforme avance el reto.  
