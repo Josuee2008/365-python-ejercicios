@@ -149,3 +149,44 @@ fin = time.time()
 
 tiempo_transcurido = fin - inicio
 print(f"Timpo transcurrido: {tiempo_transcurido:.2f} segundos")
+
+
+#Día  203 / 365
+"""
+ Simulador de recibo de compra 
+"""
+
+productos = []
+precios = []
+
+while True:
+    nombre = input("Ingrese el nombre del producto (o 'fin' para terminar): ")
+    if nombre.lower() == "fin":
+        break
+    try:
+        precio = float(input(f"Ingrese el precio de {nombre}: "))
+        productos.append(nombre)
+        precios.append(precio)
+    except ValueError:
+        print("Precio inválido. Intente nuevamente.")
+
+subtotal = sum(precios)
+iva = subtotal * 0.15
+total = subtotal + iva
+
+print("\n🧾 Recibo de compra:")
+for i in range(len(productos)):
+    print(f"- {productos[i]}: ${precios[i]:.2f}")
+
+print(f"\nSubtotal: ${subtotal:.2f}")
+print(f"IVA (15%): ${iva:.2f}")
+print(f"Total: ${total:.2f}")
+
+pago = float(input("\nIngrese el monto pagado: "))
+cambio = pago - total
+
+if cambio < 0:
+    print("⚠️ Pago insuficiente.")
+else:
+    print(f"Cambio: ${cambio:.2f}")
+    print("✅ Gracias por su compra.")
