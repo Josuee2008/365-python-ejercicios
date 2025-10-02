@@ -210,6 +210,46 @@ Cada solución está pensada para ayudar a personas que están comenzando a prog
 - ✅ Día 198: Lienzo interactivo para dibujar con el mouse (Tkinter)
 - ✅ Día 199: Círculo que sigue al mouse con Pygame
 - ✅ Día 200: Calculadora de probabilidad básica
+- ✅ Día 201: Programa que le pregunte al usuario por sus actividades diarias y genera un gráfico con Matplotlib
+- ✅ Día 202: Cronómetro básico
+- ✅ Día 203: Simulador de recibo de compra
+- ✅ Día 204: Juego del Número Cambiante
+- ✅ Día 205: Mini juego de reflejos en la terminal
+- ✅ Día 206: Detecta si hay letras repetidas consecutivas en una palabra ingresada por el usuario
+- ✅ Día 207: Generador de paleta de colores aleatoria
+- ✅ Día 208: Calendario visual interactivo usando Tkcalendar
+- ✅ Día 209: Contador regresivo de 5 segundos
+- ✅ Día 210: Contador de dígitos numéricos en una frase
+- ✅ Día 211: Contador de sílabas
+- ✅ Día 212: Detector de idioma básico con Python (usando langdetect)
+- ✅ Día 213: Juego de sinónimos
+- ✅ Día 214: Detector de anagramas
+- ✅ Día 215: Simulador de mezcla de colores
+- ✅ Día 216: Simulador de decisiones aleatorias
+- ✅ Día 217: Juego “Adivina el Emoji”
+- ✅ Día 218: Contador de letras mayúsculas y minúsculas
+- ✅ Día 219: Contador de números positivos, negativos y ceros en una lista
+- ✅ Día 220: Detector de sílabas repetidas en una palabra
+- ✅ Día 221: Detector de letras consecutivas repetidas
+- ✅ Día 222: Juego de reacción visual con letras
+- ✅ Día 223: Juego de memoria
+- ✅ Día 224: Juego de ordenar las palabras
+- ✅ Día 225: Simulador de carrera de números 🏁
+- ✅ Día 226: Detector de palabras más largas en un texto
+- ✅ Día 227: Contador de vocales y consonantes en un texto 🔤
+- ✅ Día 228: Detector de vocales faltantes
+- ✅ Día 229: Detector de secuencias ascendentes en un número
+- ✅ Día 230: Detector de números espejo
+- ✅ Día 231: Compresor RLE (Run-Length Encoding) simple
+- ✅ Día 232: Generador de secuencia alternada par/impar
+- ✅ Día 233: Diccionario con valores de las letras
+- ✅ Día 234: Programa que convierte un número (1-7) en día de la semana
+- ✅ Día 235: Compresor de texto con el algoritmo de Huffman
+- ✅ Día 236: Resolver el problema del Sudoku con Backtracking
+- ✅ Día 237: Limpieza y análisis de datos de ventas en CSV
+- ✅ Día 238: Análisis de texto con frecuencia de palabras y graficado
+- ✅ Día 239: Clasificador automático de correos (Spam vs No Spam)
+- ✅ Día 240: Dashboard de productividad de empleados
 ---
 
 📌 El repositorio se irá actualizando conforme avance el reto.  
