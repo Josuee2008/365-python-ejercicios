@@ -250,6 +250,41 @@ Cada solución está pensada para ayudar a personas que están comenzando a prog
 - ✅ Día 238: Análisis de texto con frecuencia de palabras y graficado
 - ✅ Día 239: Clasificador automático de correos (Spam vs No Spam)
 - ✅ Día 240: Dashboard de productividad de empleados
+- ✅ Día 241: Mini reporte de ventas en Excel con gráfico
+- ✅ Día 242: Análisis de tráfico web y detección de horas pico
+- ✅ Día 243: Sistema simple de recordatorios en consola
+- ✅ Día 244: Detector de duplicados en un archivo CSV
+- ✅ Día 245: Validador de datos de clientes en CSV
+- ✅ Día 246: Análisis de logs para detectar intentos sospechosos
+- ✅ Día 247: Monitoreo de uso de CPU y memoria en Python
+- ✅ Día 248: Detección de archivos duplicados en una carpeta usando hash MD5
+- ✅ Día 249: Organizador de ideas rápidas en consola
+- ✅ Día 250: Generador de reportes PDF de ventas
+- ✅ Día 251: Detector de anomalías en temperaturas
+- ✅ Día 252: Reporte PDF de empleados (versión corta)
+- ✅ Día 253: Dashboard en consola para analizar hábitos de sueño
+- ✅ Día 254: Gestor de notas con búsqueda por palabras clave
+- ✅ Día 255: Análisis de correos para detectar dominios más usados
+- ✅ Día 256: Crea un cronómetro de concentración estilo “Pomodoro” en consola
+- ✅ Día 257: Acertijo matemático
+- ✅ Día 258: Análisis de registros de errores en aplicaciones
+- ✅ Día 259: Validador de números de tarjeta con el algoritmo de Luhn
+- ✅ Día 260: Analizador de consumo de espacio en disco
+- ✅ Día 261: Limpieza de archivos temporales
+- ✅ Día 262: Renombrador de fotos por fecha EXIF
+- ✅ Día 263: Analizador de gastos personales a partir de un archivo CSV
+- ✅ Día 264: Mini monitor de cambios en carpeta
+- ✅ Día 265: Conciliación bancaria automática con archivos CSV
+- ✅ Día 266: Generador de contraseñas únicas sin repetir
+- ✅ Día 267: Organizador automático de fotos por año y mes
+- ✅ Día 268: Mini-backups automáticos 🚀
+- ✅ Día 269: Clasificador de sentimiento
+- ✅ Día 270: Sistema de gestión de biblioteca
+- ✅ Día 271: Conversor de divisas simple con API
+- ✅ Día 272: Programa que convierta una palabra en un patrón de estrellas
+- ✅ Día 273: Generador de sopa de letras
+- ✅ Día 274: Simulador de trayectoria de un proyectil
+- ✅ Día 275: Detector de similitud de textos con embeddings en Python
 ---
 
 📌 El repositorio se irá actualizando conforme avance el reto.  
