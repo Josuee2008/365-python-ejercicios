@@ -285,6 +285,90 @@ Cada solución está pensada para ayudar a personas que están comenzando a prog
 - ✅ Día 273: Generador de sopa de letras
 - ✅ Día 274: Simulador de trayectoria de un proyectil
 - ✅ Día 275: Detector de similitud de textos con embeddings en Python
+- ✅ Día 276: Simulador de estación de servicio
+- ✅ Día 277: Detector de anomalías en datos de sensores
+- ✅ Día 278: Simulador de votación en tiempo real
+- ✅ Día 279: Simulador de crecimiento bacteriano 🧫
+- ✅ Día 280: Generador de constelaciones estelares ✨
+- ✅ Día 281: Mini juego del dinosaurio
+- ✅ Día 282: Cómo crear una base de datos con Python
+- ✅ Día 283: Mini gestor de tareas con base de datos
+- ✅ Día 284: Mini sistema de login con base de datos
+- ✅ Día 285: Contador de visitas con base de datos (SQLite)
+- ✅ Día 286: 📊 Registro de temperatura con base de datos (SQLite)
+- ✅ Día 287: ❤️ Registro de frecuencia cardíaca (SQLite + Matplotlib)
+- ✅ Día 288: 😴 Registro de horas de sueño (SQLite + Matplotlib)
+- ✅ Día 289: ⌨️ Detector de velocidad de escritura (WPM Test)
+- ✅ Día 290: 📅 Calendario mensual en consola
+- ✅ Día 291: 🌀 Triángulo de Sierpinski en consola
+- ✅ Día 292: 🧲 Simulador de atracción magnética
+- ✅ Día 293: Recomendador item-based simple (cosine similarity)
+- ✅ Día 294: 🎨 Generador de arte abstracto sin Perlin Noise
+- ✅ Día 295: 🌌 Simulador de galaxia con puntos aleatorios en espiral
+- ✅ Día 296: 🌧️ Simulador de lluvia con Matplotlib
+- ✅ Día 297: 🧠 Generador de laberinto con algoritmo DFS
+- ✅ Día 298: 🔥 Simulación de difusión de calor en una placa
+- ✅ Día 299: ⚡ Simulación de rayos eléctricos (líneas fractales)
+- ✅ Día 300: 🧬 Algoritmo genético: adivinar una contraseña
+- ✅ Día 301: 🌍 Simulador de partículas gravitacionales simples
+- ✅ Día 302: 🧲 Simulación de campo magnético con líneas de flujo
+- ✅ Día 303: 📦 Generador de códigos de seguimiento de paquetes
+- ✅ Día 304: 🎨 Generador de arte caótico con trayectorias Lissajous
+- ✅ Día 305: 🌀 Generador de espirales dinámicas con interferencia de ondas
+- ✅ Día 306: 🌈 Movimiento hipnótico con rotación de puntos
+- ✅ Día 307: ✍️ Generador de texto simple con Markov (orden 2)
+- ✅ Día 308: 🌀 Simulación de órbitas caóticas con trayectorias armónicas
+- ✅ Día 309: Mensaje oculto en imagen
+- ✅ Día 310: 🧊 Cubo 3D rotatorio con Matplotlib
+- ✅ Día 311: 🌌 Simulación de partículas orbitando un punto central
+- ✅ Día 312: 🌀 Espiral 3D dinámica con rotación continua
+- ✅ Día 313: 🫀 ECG sintético con detección simple de picos R
+- ✅ Día 314: 🌪️ Simulador del atractor caótico de Clifford
+- ✅ Día 315: Detector de estrés en texto basado en frecuencia de palabras
+- ✅ Día 316: ⚛️ Simulador de colisiones de partículas en 1D
+- ✅ Día 317: Simulador de propagación de una enfermedad en una red de personas
+- ✅ Día 318: Sorteo con pesos adaptativos (los ganadores pierden probabilidad)
+- ✅ Día 319: Simulador simple de poblaciones depredador–presa
+- ✅ Día 320: Generador de constelaciones ASCII
+- ✅ Día 321: Simulador de señal ruidosa con detección de picos
+- ✅ Día 322: Simulador de predicción de tormentas con probabilidad dinámica
+- ✅ Día 323: Simulador de reservas de un restaurante
+- ✅ Día 324: Detector básico de patrones
+- ✅ Día 325: Monitor simple de cambios en un archivo
+- ✅ Día 326: Organizador automático de archivos por tipo
+- ✅ Día 327: Simulador de memoria volátil
+- ✅ Día 328: Puertas lógicas emocionales
+- ✅ Día 329: Simulador básico de inversiones bursátiles
+- ✅ Día 330: Simulador simple de robot limpiador inteligente
+- ✅ Día 331: Simulador de cola de atención con prioridades
+- ✅ Día 332: Simulador de flujo de agua en una red de tuberías
+- ✅ Día 333: Mini sistema de inventario con alerta de consumo rápido
+- ✅ Día 334: Simulador de reacciones en cadena entre nodos conectados
+- ✅ Día 335: Simulador de sensores inteligentes (Mini-IoT)
+- ✅ Día 336: Simulación de pequeñas “páginas web” que compiten por atención de usuarios
+- ✅ Día 337: Simulador de confianza entre robots (experimental e inusual)
+- ✅ Día 338: Mini-juego: Curación de datos ruidosos
+- ✅ Día 339: Simulador de micro-criaturas inteligentes (versión simple)
+- ✅ Día 340: Simulador de robots reparadores en un mapa dinámico
+- ✅ Día 341: Simulador de cadena de suministro inteligente
+- ✅ Día 342: Simulador de crecimiento bacteriano
+- ✅ Día 343: Mini simulador de termostato inteligente
+- ✅ Día 344: Simulador de fallos de sensores
+- ✅ Día 345: Simulador de estación meteorológica DIY
+- ✅ Día 346: Clasificador simple de plantas con ML (KNN)
+- ✅ Día 347: Predicción de consumo eléctrico doméstico
+- ✅ Día 348: Clasificador simple: aprobar o no
+- ✅ Día 349: Clasificador simple de crédito
+- ✅ Día 350: Simulador de clima con predicción de temperatura
+- ✅ Día 351: Detector simple de hábitos diarios
+- ✅ Día 352: La cápsula del tiempo encriptada
+- ✅ Día 353: Simulador de caída de copos de nieve
+- ✅ Día 354: Generador fractal de árboles de Navidad
+- ✅ Día 355: 🎉 Contador de Año Nuevo
+- ✅ Día 356: Algoritmo del Amigo Secreto
+- ✅ Día 357: Luces navideñas
+- ✅ Día 358: Copo de nieve
+- ✅ Día 359: Simulador de brindis navideño
 ---
 
 📌 El repositorio se irá actualizando conforme avance el reto.  
