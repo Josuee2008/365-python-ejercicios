@@ -369,6 +369,12 @@ Cada solución está pensada para ayudar a personas que están comenzando a prog
 - ✅ Día 357: Luces navideñas
 - ✅ Día 358: Copo de nieve
 - ✅ Día 359: Simulador de brindis navideño
+- ✅ Día 360: Planificación para el 2026
+- ✅ Día 361: Simulador de gastos de fiesta
+- ✅ Día 362: Cómputo global de medianoche
+- ✅ Día 363: Generador de firma digital para regalos
+- ✅ Día 364: Cofre de deseos 2026 (manejo de JSON)
+- ✅ Día 365: 🎉 EL GRAN FINAL 🎉
 ---
 
 📌 El repositorio se irá actualizando conforme avance el reto.  
